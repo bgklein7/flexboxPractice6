@@ -1,0 +1,9 @@
+﻿.form {
+    display: flex
+}
+.form__field {
+    flex: 1
+}
+.form__item {
+    background-color: red;
+}
